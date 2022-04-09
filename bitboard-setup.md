@@ -20,7 +20,7 @@ enum {
 ```c
 enum { white, black };
 ```
-4. Define getters & setters bits in the bitboard
+4. Define getters & setters for the bits in the bitboard
 ```c
 U64 get_bit(U64 bitboard, int square) {
   return bitboard & (1ULL << square)
