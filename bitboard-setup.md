@@ -1,5 +1,7 @@
 | [⬅️ Features & Advantages](features-and-advantages.md) | [🏠 Home](README.md) | [Attack Tables ➡️](attack-tables.md) |
 
+---
+
 ## Bitboard Setup
 
 1. Create a definition for a **64-bit data type**. This will be your bitboard representation.
@@ -62,5 +64,7 @@ void print_bitboard(U64 bitboard) {
   printf("     Bitboard: %llud\n\n", bitboard); // Decimal representation
 }
 ```
+
+---
 
 | [⬅️ Features & Advantages](features-and-advantages.md) | [🏠 Home](README.md) | [Attack Tables ➡️](attack-tables.md) |

@@ -1,4 +1,6 @@
-| [⬅️ Bitboard Setup](bitboard-setup.md) | [🏠 Home](README.md) | [Next ➡️](#) |
+| [⬅️ Bitboard Setup](bitboard-setup.md) | [🏠 Home](README.md) | [King Attack Table ➡️](king-attack-table.md) |
+
+---
 
 # Precalculated Attack Tables
 
@@ -8,4 +10,6 @@ Pawn, Knight, and King attack tables generated very similarly, since they are no
 
 Bishop, Rook, and Queen are sliding pieces, and require a much more complicated attack table using Magic Bitboards. 
 
-[Home](README.md)
+---
+
+| [⬅️ Bitboard Setup](bitboard-setup.md) | [🏠 Home](README.md) | [King Attack Table ➡️](king-attack-table.md) |
