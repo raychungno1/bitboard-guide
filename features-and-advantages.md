@@ -1,4 +1,7 @@
+| [⬅️ Home](README.md) | [🏠 Home](README.md) | [Bitboard Setup ➡️](bitboard-setup.md) |
+
 ## Bitboard Features & Advantages
+
 * **Tiny board** reprentation
 * Easily generate **precalculated attack tables**
   * Save time when calculating piece attacks
@@ -18,3 +21,5 @@
   * Alpha-beta pruning
   * Iterative deepening
 * Maintains simple & fast **evaluation functions**
+
+| [⬅️ Home](README.md) | [🏠 Home](README.md) | [Bitboard Setup ➡️](bitboard-setup.md) |

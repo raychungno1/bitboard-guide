@@ -5,5 +5,11 @@ This is a guide on how to implement a bitboard-based chess engine. It follows al
 ## Table of Contents
 * [Features & Advantages](features-and-advantages.md)
 * [Bitboard Setup](bitboard-setup.md)
+* [Attack Tables](attack-tables.md)
+  * Pawn Attack Table
+  * Knight Attack Table
+  * King Attack Table
+
+[Generate Attack Tables](bitboard-setup.md)
 
 ***DISCLAIMER:*** This is not meant to copy any work from the Chess Programming channel; I will leave links to his videos whenever appropriate. I was just unable to find a good text-guide online and wanted to something to refer back to in the future. 
